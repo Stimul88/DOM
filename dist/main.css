@@ -1,0 +1,29 @@
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/css/style.css ***!
+  \*********************************************************************/
+.all-cells {
+  margin: 242px auto auto;
+  align-items: center;
+  width: 420px;
+  height: 420px;
+}
+
+.cells {
+  display: inline-block;
+  background-color: green;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  width: 100px;
+  height: 100px;
+}
+
+.active {
+  border: none;
+  margin: 10px auto auto;
+  display: block;
+  background: url(2dbd01ce16c0fa83cb67.png) no-repeat center;
+  background-size: cover;
+  width: 80%;
+  height: 80%;
+}
+
