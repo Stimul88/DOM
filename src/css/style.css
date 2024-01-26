@@ -1,0 +1,25 @@
+.all-cells {
+  margin: 242px auto auto;
+  align-items: center;
+  width: 420px;
+  height: 420px;
+}
+
+.cells {
+  display: inline-block;
+  background-color: green;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  width: 100px;
+  height: 100px;
+}
+
+.active {
+  border: none;
+  margin: 10px auto auto;
+  display: block;
+  background: url('../img/goblin.png') no-repeat center;
+  background-size: cover;
+  width: 80%;
+  height: 80%;
+}
